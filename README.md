@@ -1,5 +1,7 @@
 # Preprocessed Wikinews Keyphrase benchmark dataset
 
+* **update 2025/02/09** the dataset is available on huggingface: [https://huggingface.co/datasets/taln-ls2n/wikinews-fr-100](https://huggingface.co/datasets/taln-ls2n/wikinews-fr-100)
+
 This dataset was introduced in:
 
  - **TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction.**
